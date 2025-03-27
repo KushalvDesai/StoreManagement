@@ -1,0 +1,15 @@
+# PyInstaller build folders and files
+build/
+dist/
+*.spec
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Secret files
+.env
+store.db
+
+# Invoice outputs
+invoices/
